@@ -1,0 +1,14 @@
+{
+  "name": "vite-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^2.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
